@@ -1,6 +1,6 @@
-# "Calculation Complete" popup script
+# "Calculation Correct" popup script
 
-Inspired from the "Calculation Complete" popup in [The Martian](https://en.wikipedia.org/wiki/The_Martian_%28film%29)
+Inspired from the "Calculation Correct" popup in [The Martian](https://en.wikipedia.org/wiki/The_Martian_%28film%29)
 
 ##OSX Terminal version
 
